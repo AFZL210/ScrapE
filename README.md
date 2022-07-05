@@ -5,8 +5,6 @@ This Repo contains source code of ScrapE - Web scrapper!
 Using ScrapE User can set a desired price for a product and if the product price matches the desired price then it send sms to user using Twilio
 
 
-![Logo](https://raw.githubusercontent.com/AFZL210/YoGURU/main/Ui-Images/LogoWithSlogan.png)
-
 
 ## Screenshots
 
