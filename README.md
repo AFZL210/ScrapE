@@ -11,8 +11,9 @@ Using ScrapE User can set a desired price for a product and if the product price
 
 ## Screenshots
 
-![Logo]()
-
+![CMD](https://raw.githubusercontent.com/AFZL210/ScrapE/main/src/media/cmd1.JPG)
+![IMG](https://raw.githubusercontent.com/AFZL210/ScrapE/main/src/media/compareandlog.JPG)
+![IMG](https://raw.githubusercontent.com/AFZL210/ScrapE/main/src/media/compareandlog.JPG)
 
 ## Try ScrapE
 
